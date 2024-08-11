@@ -27,4 +27,4 @@ Here are a few of the projects I've worked on:
 
 * Email: maribell426@hotmail.com
 * LinkedIn: https://www.linkedin.com/in/maribel-gutierrez/
-* Portfolio: https://www.maribel-gutierrez.vercel.app
+* Portfolio: https://maribel-gutierrez.vercel.app
