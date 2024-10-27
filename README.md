@@ -4,7 +4,7 @@
 
 I'm an experienced Software Engineer with a background in different industries such as Frontend Development, Backend Development, Hardware designing and IoT. I have over 6 years of hands-on experience combining hardware and software engineering, building robust solutions that bridge the gap between technology and real-world applications. My passion lies in creating intuitive user interfaces and scalable backend systems.
 
-* 💻 I specialize in JavaScript, TypeScript, React, Next.js, Node.js, and GraphQL.
+* 💻 I specialize in JavaScript, TypeScript, Node.js, Python and C++.
 * 🔧 I also have strong expertise in Embedded Systems, IoT Development, and Flutter.
 * 🌍 Based in Perth, Australia.
 
@@ -20,7 +20,7 @@ Here are a few of the projects I've worked on:
 * **Frontend:** React, Next.js, Angular, HTML, CSS, Tailwind CSS, WebSockets
 * **Backend:** Node.js, Express, GraphQL, MySQL
 * **DevOps:** GitHub Actions, Docker, CI/CD
-* **Embedded Systems:** C/C++, Microcontrollers
+* **Embedded Systems:** C/C++, Microcontrollers, Python
 * **Mobile Development:** Flutter
 
 ## 📫 How to Reach Me
