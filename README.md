@@ -102,6 +102,118 @@ Experience taking responsibility for frontend development and contributing throu
 
 ---
 
+# 🏗️ Engineering Projects & Professional Work
+
+A selection of engineering and software development projects from different stages of my professional journey.
+
+These projects reflect my experience working across electronic engineering, hardware design, mobile application
+development, software engineering, and connected systems.
+
+Some of these projects were developed earlier in my career. Although the available documentation and screenshots are
+limited, they represent valuable hands-on experience in designing and developing real-world engineering solutions.
+
+---
+
+## 01. Eira — Medical Device Development
+
+**Electronic Engineering · Hardware Design · Flutter · Mobile Development · Backend Integration**
+
+Eira was a medical-device project developed during the COVID-19 period, combining electronic hardware design and
+software development into an integrated engineering solution.
+
+The project involved developing the electronic hardware and building a mobile application to support the software side
+of the solution, alongside backend functionality for data storage.
+
+### My Role & Contributions
+
+I contributed to the development of the solution across hardware and software:
+
+- **Electronic Hardware Design:** Worked on the design and development of the device's electronic hardware.
+- **Mobile Application Development:** Developed the mobile application using Flutter.
+- **Backend Development:** Contributed to backend functionality responsible for data storage.
+- **System Integration:** Worked across the hardware and software components of the solution.
+
+### Technology & Engineering Areas
+
+`Flutter` · `Dart` · `Electronic Hardware Design` · `Mobile Development` · `Backend Integration` · `Data Storage`
+
+### Project Gallery
+
+<p align="center">
+  <img src="./images/eira/IMG-20210312-WA0017.jpg" width="48%" alt="Eira medical device"/>
+</p>
+
+<details>
+<summary><b>More about this project</b></summary>
+
+This project represents an important stage of my engineering career, where I worked beyond traditional software
+development and gained experience connecting electronic hardware with mobile and backend software components.
+
+It strengthened my understanding of how different engineering disciplines come together to create an integrated
+technical solution.
+
+</details>
+
+---
+
+## 02. Heat Equipment Monitoring System
+
+**Electronic Engineering · IoT · Application Development · Hardware/Software Integration
+
+An engineering and software development project focused on studying heat transfer and monitoring measurements from
+heating equipment.
+
+The solution involved the integration of hardware and software components to collect and visualize equipment
+measurements through an application developed from scratch.
+
+### My Role & Contributions
+
+I was responsible for developing the application from scratch and contributing to the integration of the hardware and
+software components.
+
+My contributions included:
+
+- **Application Development: Designed and developed the application from the ground up.
+- **User Interface: Implemented the interface for monitoring equipment measurements.
+- **Monitoring Functionality: Worked on the application's monitoring capabilities.
+- **Hardware/Software Integration: Contributed to connecting the software solution with the physical equipment.
+- **Engineering Implementation: Worked across the application and the broader monitoring system.
+
+### Technology & Engineering Areas
+
+`IoT` · `Electronic Engineering` · `Application Development` · `Hardware Integration` · `Real-Time Monitoring` ·
+`Data Visualization`
+
+Project Gallery
+
+<p align="center">
+  <img src="./images/heat-equipment/DSC04728.JPG" width="48%" alt="Heat equipment"/>
+  <img src="./images/heat-equipment/Diagrama.png" width="48%" alt="Heat equipment instrumentation"/>
+</p>
+
+<details>
+<summary><b>More about this project</b></summary>
+
+This project allowed me to combine my background in electronic engineering with software development.
+
+One of its most valuable aspects was taking responsibility for the application development from scratch while
+considering the relationship between physical equipment, collected measurements, and the software used to monitor them.
+
+It represents my experience working with systems where software interacts with physical equipment, translating
+engineering requirements into functional monitoring applications.
+
+</details>
+
+---
+
+## A Note on Historical Projects
+
+These projects are presented as selected examples of my previous engineering and software development experience.
+
+The images and documentation reflect the materials available from their original development periods. They are included to demonstrate my technical background and contributions, rather than represent recently developed products.
+
+---
+
 # 🛠️ Technical Expertise
 
 ## Frontend
