@@ -158,7 +158,7 @@ technical solution.
 
 ## 02. Heat Equipment Monitoring System
 
-**Electronic Engineering · IoT · Application Development · Hardware/Software Integration
+**Electronic Engineering · IoT · Application Development · Hardware/Software Integration**
 
 An engineering and software development project focused on studying heat transfer and monitoring measurements from
 heating equipment.
@@ -173,18 +173,18 @@ software components.
 
 My contributions included:
 
-- **Application Development: Designed and developed the application from the ground up.
-- **User Interface: Implemented the interface for monitoring equipment measurements.
-- **Monitoring Functionality: Worked on the application's monitoring capabilities.
-- **Hardware/Software Integration: Contributed to connecting the software solution with the physical equipment.
-- **Engineering Implementation: Worked across the application and the broader monitoring system.
+- **Application Development:** Designed and developed the application from the ground up.
+- **User Interface:** Implemented the interface for monitoring equipment measurements.
+- **Monitoring Functionality:** Worked on the application's monitoring capabilities.
+- **Hardware/Software Integration:** Contributed to connecting the software solution with the physical equipment.
+- **Engineering Implementation:** Worked across the application and the broader monitoring system.
 
 ### Technology & Engineering Areas
 
 `IoT` · `Electronic Engineering` · `Application Development` · `Hardware Integration` · `Real-Time Monitoring` ·
 `Data Visualization`
 
-Project Gallery
+### Project Gallery
 
 <p align="center">
   <img src="./images/heat-equipment/DSC04728.JPG" width="48%" alt="Heat equipment"/>
